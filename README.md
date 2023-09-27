@@ -14,9 +14,10 @@ https://stolkacheva.github.io/react-big-array/
 
 #### Пример
 input: digits = [9]
+
 output: [1,0]
 
 #### Условия:
-1 <= digits.length <= 100
-0 <= digits[i] <= 9
-digits не содержит начальных 0
+- 1 <= digits.length <= 100
+- 0 <= digits[i] <= 9
+- digits не содержит начальных 0
