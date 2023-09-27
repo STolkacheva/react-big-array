@@ -1,5 +1,5 @@
 ## Демо
-https://stolkacheva.github.io/react-big-array/index.html
+https://stolkacheva.github.io/react-big-array/
 
 ## Запуск проекта
 
